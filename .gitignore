@@ -1,0 +1,16 @@
+# Ignore dependencies
+node_modules/
+
+# Ignore secret environment variables
+.env
+
+# Ignore MySQL data files (The .ibd files in your screenshot)
+*.ibd
+hostel_management/
+
+.vscode/
+dist/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
